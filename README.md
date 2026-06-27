@@ -54,5 +54,5 @@ or
 
 ## 👩‍💻 Author
 
-Shahad Alosemy
+**Shahad Alosaimi**
 Software Engineering Graduate
